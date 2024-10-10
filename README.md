@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### I believe that soft skills are essential for our personal and professional growth
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,vscode,ji,docker,jithub,idea,js,html,css,arduino,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,pycharm,vscode,ji,docker,jithub,idea,js,html,css,debian,arduino,raspberrypi)](https://skillicons.dev)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olegukr&theme=ayu_mirage)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olegukr&theme=ayu_mirage)

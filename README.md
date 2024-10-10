@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I like to explore new technologies and develop software solutions
+### I believe that soft skills are essential for our personal and professional growth
+
+
+[![My Skills](https://skillicons.dev/icons?i=java,py,vscode,ji,docker,jithub,idea,js,html,css,arduino,raspberrypi)](https://skillicons.dev)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olegukr&theme=ayu_mirage)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olegukr&theme=ayu_mirage)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olegukr&theme=ayu_mirage)

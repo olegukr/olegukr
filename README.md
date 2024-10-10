@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I like to explore new technologies and develop software solutions
-### I believe that soft skills are essential for our personal and professional growth
+### - I like to explore new technologies and develop software solutions
+### - I believe that soft skills are essential for our personal and professional growth
 
 
 --
